@@ -1,0 +1,29 @@
+.dialogs {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
+
+.dialogsItems {
+    padding: 10px;
+    font-size: 20px;
+    color: gold;
+}
+
+.messages {
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+}
+
+.dialog .activeLink {
+    color: gold;
+    text-decoration: none;
+    font-size: 22px;
+}
+
+.messages textarea {
+    color: black;
+}

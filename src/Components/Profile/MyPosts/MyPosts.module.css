@@ -1,0 +1,20 @@
+ .posts{
+     padding: 10px;
+ }
+
+.posts_name{
+    margin-top: 10px;
+}
+
+.posts textarea {
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 20px;
+}
+
+.posts button {
+    font-size: 18px;
+    height: 35px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

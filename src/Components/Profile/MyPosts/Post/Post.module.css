@@ -1,0 +1,12 @@
+.item {
+    color: rgb(107, 98, 98);
+    margin-left: 5px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.item img {
+    width: 60px;
+    height: auto;
+    border-radius: 150px;
+}
